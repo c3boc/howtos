@@ -9,7 +9,7 @@
 | timme                       |      |
 | onebit                      |      |
 | beh                         |      |
-| shibumi                     |      |
+| shibumi                     | 7545 |
 
 ## Bars
 | Name        | Location     | Floor        | DECT |
