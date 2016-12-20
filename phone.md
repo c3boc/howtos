@@ -23,5 +23,6 @@
 
 ## Misc
 | Name         | DECT |
+| ------------ | ---- |
 | Bar Runner 1 | 1721 |
 | Bar Runner 2 | 1722 |
