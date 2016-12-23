@@ -6,7 +6,7 @@
 | gnomus                      | 6868 |
 | Anni                        | 1728 |
 | anthraxx                    | 5353 |
-| timme                       |      |
+| timme                       | 4432 |
 | onebit                      | 4042 |
 | beh                         |      |
 | shibumi                     | 7545 |
