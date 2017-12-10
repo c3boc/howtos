@@ -1,4 +1,4 @@
-# Phonenumbers BOC 33c3
+# Phonenumbers BOC 34c3
 ## Supervisors
 | Name                        | DECT |
 | --------------------------- | ---- |
@@ -7,22 +7,28 @@
 | Anni                        | 1728 |
 | anthraxx                    | 5353 |
 | timme                       | 4432 |
-| onebit                      | 4042 |
-| beh                         |      |
+| onebit                      | 1248 |
+| beh                         | 4243 |
 | shibumi                     | 7545 |
+| Martin                      | 4200 |
+| Martin                      | 2242 |
+| Michi                       | 1275 |
+| Plushkatze                  |      |
 
-## Bars and lounges
-| Name        | Location     | Floor        | DECT |
-| ----------- | ------------ | ------------ | ---- |
-| Uptime Bar  | Saal 3       | Ground Floor | 1724 |
-| DDOS Bar    | Hauptfoyer 1 | 2. Floor     | 1725 |
-| Exploit Bar | Rangfoyer 1  | 4. Floor     | 1726 |
-| Crypto Bar  | Saal G       | 2. Floor     | 1727 |
-| Lounge Bar  | Halle H      | Ground Floor | 1723 |
-| Lounge Bar  | Rangfoyer 1  | 4. Floor     | 1729 |
+## Bars
+| Name        | Location               | Floor        | DECT |
+| ----------- | ---------------------- | ------------ | ---- |
+| Uptime Bar  | Halle 2                | Ground Floor | 1729 |
+| DDOS Bar    | Glashalle Ost          | Ground Floor | 1724 |
+| Exploit Bar | CCL                    | Ground Floor | 1726 |
+| Overflow Bar| Glashalle West         | Ground Floor | 1724 |
+| Crypto Bar  | CCL                    | First  Floor | 1727 |
+| Zeroday Bar | Würfel CCL/Halle2      | Ground Floor | 1730 |
+| Memleak Bar | Würfel Halle 1/Halle 3 | Ground Floor | 1731 |
 
-## Misc
+## Bar Runner
 | Name         | DECT |
 | ------------ | ---- |
 | Bar Runner 1 | 1721 |
 | Bar Runner 2 | 1722 |
+| Bar Runner 3 | 1723 |
