@@ -13,7 +13,7 @@
 | Martin                      | 4200 |
 | Martin                      | 2242 |
 | Michi                       | 1275 |
-| Plushkatze                  | ???? |
+| Plushkatze                  | 5283 |
 
 ## Bars
 | Name        | Location               | Floor        | DECT |
